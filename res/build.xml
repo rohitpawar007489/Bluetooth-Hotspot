@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Export" default="generateResource" basedir=".">
+<target name="generateResource">
+<taskdef classpath="editor.jar" classname="com.sun.lwuit.tools.resourcebuilder.LWUITTask" name="build" />
+    <build dest="output.res">
+   <image file="image/radio_unchecked.png_veryLow" name="radio_unchecked.png" />
+   <image file="image/SliderFull.borderBottomL:1" name="SliderFull.borderBottomL:1" />
+   <image file="image/TextField.sel#borderBottom:1" name="TextField.sel#borderBottom:1" />
+   <image file="image/TextField.sel#borderBottomR:1" name="TextField.sel#borderBottomR:1" />
+   <image file="image/Slider.sel#borderTopR:1" name="Slider.sel#borderTopR:1" />
+   <image file="image/TextField.sel#borderTop:1" name="TextField.sel#borderTop:1" />
+   <image file="image/Slider.sel#borderBottomR:1" name="Slider.sel#borderBottomR:1" />
+   <image file="image/List.sel#borderTop:1" name="List.sel#borderTop:1" />
+   <image file="image/Slider.sel#borderTop:1" name="Slider.sel#borderTop:1" />
+   <image file="image/List.sel#borderBottomL:1" name="List.sel#borderBottomL:1" />
+   <image file="image/buttonBGPres9" name="buttonBGPres9" />
+   <image file="image/combo.png_veryLow" name="combo.png" />
+   <image file="image/buttonBGPres8" name="buttonBGPres8" />
+   <image file="image/buttonBGPres7" name="buttonBGPres7" />
+   <image file="image/buttonBGPres6" name="buttonBGPres6" />
+   <image file="image/buttonBGPres5" name="buttonBGPres5" />
+   <image file="image/List.sel#borderRight:1" name="List.sel#borderRight:1" />
+   <image file="image/TextField.sel#borderLeft:1" name="TextField.sel#borderLeft:1" />
+   <image file="image/buttonBGPres4" name="buttonBGPres4" />
+   <image file="image/TextField.sel#borderCenter:1" name="TextField.sel#borderCenter:1" />
+   <image file="image/buttonBGPres3" name="buttonBGPres3" />
+   <image file="image/SliderFull.borderBottom:1" name="SliderFull.borderBottom:1" />
+   <image file="image/SliderFull.borderBottomR:1" name="SliderFull.borderBottomR:1" />
+   <image file="image/buttonBGPres2" name="buttonBGPres2" />
+   <image file="image/Slider.sel#borderBottom:1" name="Slider.sel#borderBottom:1" />
+   <image file="image/buttonBGPres1" name="buttonBGPres1" />
+   <image file="image/radio_checked.png_veryLow" name="radio_checked.png" />
+   <image file="image/TextField.sel#borderTopL:1" name="TextField.sel#borderTopL:1" />
+   <image file="image/TextField.sel#borderRight:1" name="TextField.sel#borderRight:1" />
+   <image file="image/List.sel#borderLeft:1" name="List.sel#borderLeft:1" />
+   <image file="image/List.sel#borderBottom:1" name="List.sel#borderBottom:1" />
+   <image file="image/SliderFull.borderTop:1" name="SliderFull.borderTop:1" />
+   <image file="image/SliderFull.borderLeft:1" name="SliderFull.borderLeft:1" />
+   <image file="image/buttonBGSel9" name="buttonBGSel9" />
+   <image file="image/List.sel#borderBottomR:1" name="List.sel#borderBottomR:1" />
+   <image file="image/buttonBGSel8" name="buttonBGSel8" />
+   <image file="image/SliderFull.borderRight:1" name="SliderFull.borderRight:1" />
+   <image file="image/buttonBGSel7" name="buttonBGSel7" />
+   <image file="image/buttonBGSel6" name="buttonBGSel6" />
+   <image file="image/buttonBGSel5" name="buttonBGSel5" />
+   <image file="image/SliderFull.borderCenter:1" name="SliderFull.borderCenter:1" />
+   <image file="image/buttonBGSel4" name="buttonBGSel4" />
+   <image file="image/buttonBGSel3" name="buttonBGSel3" />
+   <image file="image/Slider.sel#borderCenter:1" name="Slider.sel#borderCenter:1" />
+   <image file="image/buttonBGSel2" name="buttonBGSel2" />
+   <image file="image/buttonBGSel1" name="buttonBGSel1" />
+   <image file="image/List.sel#borderTopL:1" name="List.sel#borderTopL:1" />
+   <image file="image/SliderFull.borderTopL:1" name="SliderFull.borderTopL:1" />
+   <image file="image/Slider.sel#borderLeft:1" name="Slider.sel#borderLeft:1" />
+   <image file="image/Slider.sel#borderRight:1" name="Slider.sel#borderRight:1" />
+   <image file="image/TextField.sel#borderTopR:1" name="TextField.sel#borderTopR:1" />
+   <image file="image/TextField.sel#borderBottomL:1" name="TextField.sel#borderBottomL:1" />
+   <image file="image/List.sel#borderCenter:1" name="List.sel#borderCenter:1" />
+   <image file="image/Slider.sel#borderTopL:1" name="Slider.sel#borderTopL:1" />
+   <image file="image/checkbox_checked.png_veryLow" name="checkbox_checked.png" />
+   <image file="image/checkbox_unchecked.png_veryLow" name="checkbox_unchecked.png" />
+   <image file="image/Slider.sel#borderBottomL:1" name="Slider.sel#borderBottomL:1" />
+   <image file="image/List.sel#borderTopR:1" name="List.sel#borderTopR:1" />
+   <image file="image/SliderFull.borderTopR:1" name="SliderFull.borderTopR:1" />
+   <font system="FACE_SYSTEM | STYLE_BOLD | SIZE_MEDIUM" name="gen1" />
+   <font system="FACE_SYSTEM | STYLE_BOLD | SIZE_MEDIUM" name="gen2" />
+   <font system="FACE_SYSTEM | STYLE_BOLD | SIZE_LARGE" name="gen3" />
+   <font system="FACE_SYSTEM | STYLE_BOLD | SIZE_MEDIUM" name="gen4" />
+   <theme file="theme/Theme 1" name="Theme 1" />
+   </build>
+</target>
+</project>
