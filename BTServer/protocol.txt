@@ -1,0 +1,20 @@
+Client                          Server
+=======================================
+
+GETURL
+<url>
+                                OK          ERROR
+                                <length>
+                                <data>
+-----------------------------------------
+
+POSTURL
+<url>
+<length>
+<data>
+                                OK          ERROR
+                                <length>
+                                <data>
+------------------------------------------
+CLOSE
+                                -
