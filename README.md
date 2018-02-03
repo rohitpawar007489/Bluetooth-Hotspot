@@ -1,2 +1,5 @@
 # Bluetooth-Hotspot
 The objective of this project is to evaluate the market for Bluetooth technology as a hotspot access technology. It identifies the need for Bluetooth hotspots in order to exploit the proliferation of wireless devices and the development of wireless applications that can benefit everyone in the society. It also describes a design and implementation strategy for a Bluetooth hotspot deployment. In terms of social conception, Bluetooth hotspots have the ability to bridge the digital divide between people who do or do not have access to the technology. It is not necessary to purchase a PC, a laptop or a PDA which are often used for business and work related purposes, for occasionally checking email and browsing the Internet. There are some consumers who are not a frequent user of the Internet due to the nature of their work, lifestyle or income. This group of people is Katter off investing in a Bluetooth enabled mobile phone to access the Internet.
+
+We have developed client application using javas lightweight api of J2ME. 
+Server and bluetooth functionality is developed in java.
